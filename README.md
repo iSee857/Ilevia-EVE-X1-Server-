@@ -1,4 +1,4 @@
-# Ilevia-EVE-X1-Server
+# Ilevia-EVE-X1-Server-RefelctedXss
 Ilevia EVE X1 Server refelcted XSS poc
 
 ## Affected Repository
@@ -6,6 +6,7 @@ Ilevia EVE X1 Server refelcted XSS poc
 - Affect versions: Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21
 - File: /index.php?error=
 - homePage: https://www.ilevia.com/
+- CVE_ID: CVE-2025-60737
 - Dependency: Ilevia EVE X1 Server ( Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21)
 
 ## Proof of Concept (PoC)
