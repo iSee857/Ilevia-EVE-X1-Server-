@@ -1,4 +1,4 @@
-# Ilevia-EVE-X1-Server-RefelctedXss
+# CVE-2025-60737 Ilevia-EVE-X1-Server-RefelctedXss
 Ilevia EVE X1 Server refelcted XSS poc
 
 ## Affected Repository
