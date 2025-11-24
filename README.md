@@ -7,6 +7,8 @@ Ilevia EVE X1 Server refelcted XSS poc
 - File: /index.php?error=
 - homePage: https://www.ilevia.com/
 - CVE_ID: CVE-2025-60737
+- Vector: CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N
+- Refer: https://nvd.nist.gov/vuln/detail/CVE-2025-60737
 - Dependency: Ilevia EVE X1 Server ( Firmware Version<= 4.7.18.0.eden;Logic Version<=6.00 - 2025_07_21)
 
 ## Proof of Concept (PoC)
